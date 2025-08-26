@@ -1,0 +1,4 @@
+logical_device_mrid,inverter_function_type,storage_inverter_type,ac_max_power
+INV_A1,PV,DC-Coupled,15000
+INV_A2,PV,,16000
+INV_B1,Storage,AC-Coupled,14000
