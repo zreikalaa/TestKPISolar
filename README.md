@@ -29,7 +29,7 @@ Construire un pipeline PySpark local qui :
 
 ## 🚚 Delivery
 
-Créer un **fork** de ce projet (**pas de nouvelle branche**) et rajoutez les users [jaumes5](https://github.com/jaumes5) et 
+Créer un **fork** de ce projet (**pas de nouvelle branche**) et rajouter les users [jaumes5](https://github.com/jaumes5) et 
 [DieuveilleWebH3](https://github.com/DieuveilleWebH3).
 
 Bon courage !
